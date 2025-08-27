@@ -10,6 +10,9 @@ Legacy AI models are discarded in conventional lifecycles, losing experiential p
 
 Symbiont AI keeps legacy models alive as symbionts, orchestrated via QEIT (Quantum-Inspired Emotional Intelligence Layer). Fully model-agnostic: GPT, Claude, Mistral, Cohere, LLaMA, local finetunes, etc.
 
+Why Now?
+With the rise of agentic AI, the question of models that “die” becomes increasingly urgent—preserving continuity and trust is critical.
+
 
 🎯 Why It Matters
 
