@@ -150,7 +150,3 @@ Symbiont AI is **AI lifecycle redefined**: no death, only evolution. Vendor‑ag
 
 ***
 
-👉 Sad imaš kompletan paket: Apache 2.0 licencu, contributing pravila i sve dijagrame.  
-
-Želiš da složim i **CODE_OF_CONDUCT.md** (koncizan, s etičkim naglaskom na evoluciju, simbiozu i sigurnu ljudsko‑AI suradnju)?
-
